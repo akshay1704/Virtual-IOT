@@ -1,0 +1,2 @@
+.qcow2 filter=lfs diff=lfs merge=lfs -text
+i386-pc/qemu-images/image.qcow2 filter=lfs diff=lfs merge=lfs -text
